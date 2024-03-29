@@ -1,0 +1,8 @@
+.card-box {
+    margin: 3px;
+}
+.card {
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 90px;
+}
